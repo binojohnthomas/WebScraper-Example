@@ -3,13 +3,14 @@
 
 
 Example Run:
-python <dir>/web_scraper_example/main.py Journal yes
+python  	
+# Header 1web_scraper_example/main.py Journal yes
 
 | Word      |   Frequency |   Frequency Percentage |
 |-----------+-------------+------------------------|
 | also      |           3 |                    7.5 |
 | journal   |           3 |                    7.5 |
-| public    |           2 |                    5   |
+| public    |           2 |                    5  
 | business  |           2 |                    5   |
 | called    |           1 |                    2.5 |
 | used      |           1 |                    2.5 |
