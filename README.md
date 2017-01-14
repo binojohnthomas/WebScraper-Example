@@ -1,10 +1,12 @@
 
+	
+# OVERVIEW
 
+This script pulls the top 20 most frequently used words from a Wikipedia article. It uses regular expressions and stop word removal to create a cleaned table that we can view with the results
 
 
 Example Run:
-python  	
-# Header 1web_scraper_example/main.py Journal yes
+`python web_scraper_example/main.py Journal yes`
 
 | Word      |   Frequency |   Frequency Percentage |
 |-----------+-------------+------------------------|
